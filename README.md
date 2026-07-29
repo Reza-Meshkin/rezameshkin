@@ -45,10 +45,10 @@ I enjoy building clean, scalable, and maintainable software using the .NET ecosy
 ## 📫 Connect with me
 
 LinkedIn:
-www.linkedin.com/in/reza-meshkin
+www.linkedin.com/in/Reza-Meshkin
 
 GitHub:
-github.com/rezameshkin
+github.com/Reza-Meshkin
 
 ---
 
